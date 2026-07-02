@@ -45,7 +45,7 @@ TEST(CAPI_EXPERIMENTAL, GetServerDefTest) {
     }
   }
 }
-job_name: "worker"
+job_name: "workers"
 task_index: 1
 protocol: "grpc"
 )");
